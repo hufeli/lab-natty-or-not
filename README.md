@@ -16,6 +16,7 @@ Este projeto explora o impacto das IAs generativas na criação de conteúdo fal
 ## 🚀 Resultados
 - **Ebook Completo**: Um eBook que explora de forma educativa o papel das IAs na criação de fake news e deepfakes, apresentando o conteúdo de maneira visual e explicativa.
 - **Dicas para o Público**: O eBook oferece dicas práticas para o público identificar conteúdo gerado por IA, incluindo sinais de falsificação e recursos de verificação.
+  
 [LINK PARA O E-BOOK AQUI]()
 
 ## 💭 Reflexão (Opcional)
