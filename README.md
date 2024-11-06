@@ -17,7 +17,7 @@ Este projeto explora o impacto das IAs generativas na criação de conteúdo fal
 - **Ebook Completo**: Um eBook que explora de forma educativa o papel das IAs na criação de fake news e deepfakes, apresentando o conteúdo de maneira visual e explicativa.
 - **Dicas para o Público**: O eBook oferece dicas práticas para o público identificar conteúdo gerado por IA, incluindo sinais de falsificação e recursos de verificação.
   
-[LINK PARA O E-BOOK AQUI]()
+[LINK PARA O E-BOOK AQUI](https://github.com/hufeli/lab-natty-or-not/raw/refs/heads/main/exemplos/Deepfakes_Fake_News_Desvendando_a_Realidade_Virtual.docx)
 
 ## 💭 Reflexão (Opcional)
 Criar um conteúdo “natty” com IA mostrou como é fácil desenvolver informações realistas e enganosas, mas também destacou o valor da transparência e da educação sobre essas tecnologias. Este projeto reforça a importância de promover uma conscientização sobre IA e desinformação, permitindo que os leitores se tornem mais críticos e preparados para identificar conteúdo falso.
