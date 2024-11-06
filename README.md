@@ -1,51 +1,22 @@
-# Natural ou Fake Natty? Como Vencer na Era das IAs Generativas
-
-## 🚀 Introdução
-
-> Woooow! Look at this 👀
-
-Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisiculturismo, este Lab da DIO te convida a conhecer o mundo das IAs Generativas, explorando o potencial dessas tendências tecnológicas incríveis!
-
-## 🎯 Bora Pro Desafio!? Você Já Venceu 💪🤓
-
-### Objetivos
-
-1. **Explorar IAs Generativas**: Utilize essas tecnologias para criar conteúdos que sejam o mais realista possível. Seja criativo! Você pode produzir imagens, textos, áudios, vídeos ou combinações de tudo isso!
-1. **Potfólio de Projetos**:
-    1. Faça o "fork" deste repositório, criando uma cópia em seu GitHub pessoal;
-    2. Edite seu README com os detalhes do seu projeto, siga nosso [Template](#template) (é só copiar, colar e preencher);
-    3. Submeta o link do seu repositório na plataforma da DIO. Pronto, você acabou de fortalecer seu portfólio de projetos nos perfis do GitHub e DIO 🚀
-1. **Efeito de Rede**: Compartilhe seus resultados nas redes sociais com a hashtag **#LabDIONattyOrNot**. Não esqueça de nos marcar: [DIO](https://www.linkedin.com/school/dio-makethechange) e [falvojr](https://www.linkedin.com/in/falvojr).
-
-### Template
-
-```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+# A Arte do Engano: Deepfakes e Fake News
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+Este projeto explora o impacto das IAs generativas na criação de conteúdo falso, como deepfakes e fake news, com o objetivo de educar os leitores sobre como identificar e entender essa tecnologia. O eBook traz uma visão clara e acessível de como a IA pode criar informações convincentes e os desafios éticos que isso representa, além de dicas para distinguir o conteúdo “natural” do gerado por IA.
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+- **ChatGPT**: Utilizado para gerar o conteúdo textual do eBook, incluindo descrições acessíveis, exemplos de casos reais e explicações de conceitos de IA.
+- **Imagens de ChatGPT**: Imagens geradas para ilustrar os tópicos discutidos e tornar o eBook mais visual e envolvente.
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+1. **Planejamento do Conteúdo**: Estruturei o eBook em capítulos que abordam o conceito de deepfakes, como a IA gera conteúdo, casos práticos e dicas para identificar conteúdos falsos.
+2. **Geração de Texto com ChatGPT**: Cada seção foi escrita usando o ChatGPT para garantir uma linguagem acessível e exemplos práticos que facilitam o entendimento.
+3. **Criação de Imagens**: Imagens foram geradas com base nas descrições fornecidas, ilustrando exemplos de deepfakes, fluxos de IA e conceitos visuais para complementar o texto.
+4. **Edição e Design**: O conteúdo textual e as imagens foram organizados em uma estrutura clara e visual, criando um eBook fácil de ler e visualmente atraente.
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+- **Ebook Completo**: Um eBook que explora de forma educativa o papel das IAs na criação de fake news e deepfakes, apresentando o conteúdo de maneira visual e explicativa.
+- **Dicas para o Público**: O eBook oferece dicas práticas para o público identificar conteúdo gerado por IA, incluindo sinais de falsificação e recursos de verificação.
+[LINK PARA O E-BOOK AQUI]()
 
 ## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
-```
-
-### Exemplos e Insigths
-
-- [E-BOOK](/exemplos/E-BOOK.md)
-- [Podcast](/exemplos/PODCAST.md)
-- [Vídeo (Avatar Virtual)](/exemplos/VIDEO.md)
-
-## Links Interessantes
-
-[Base10: If You’re Not First, You’re Last: How AI Becomes Mission Critical](https://base10.vc/post/generative-ai-mission-critical/)
-
-![Base10's Trend Map Generative AI](https://github.com/digitalinnovationone/lab-natty-or-not/assets/730492/f4df26e8-f8f7-4419-8252-c69d73ea930c)
+Criar um conteúdo “natty” com IA mostrou como é fácil desenvolver informações realistas e enganosas, mas também destacou o valor da transparência e da educação sobre essas tecnologias. Este projeto reforça a importância de promover uma conscientização sobre IA e desinformação, permitindo que os leitores se tornem mais críticos e preparados para identificar conteúdo falso.
